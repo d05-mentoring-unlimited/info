@@ -34,6 +34,8 @@ Flipping card on hover: https://flipping-card-onhover.vercel.app
 
 Rotating Images Cube: https://images-cube-demo.vercel.app
 
+Progress Bar: https://progress-bar-demo.vercel.app/
+
 Glowing Cube: https://cube-glowing-demo.vercel.app 
 
 Glowing Club Text: https://glowing-club-text.vercel.app
@@ -41,6 +43,10 @@ Glowing Club Text: https://glowing-club-text.vercel.app
 Shiny Text Backlight: https://shiny-text-backlight.vercel.app/
 
 Text Morphing: https://text-morphing-demo.vercel.app
+
+Analog Clock: https://clockodile-dundee.vercel.app
+
+Carousel CSS only: https://carousel-continuous-css-only.vercel.app/
 
 ### JS
 
